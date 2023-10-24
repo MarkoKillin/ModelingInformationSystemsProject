@@ -1,0 +1,3 @@
+Marko Mirkovic 064010101 generic.mail1@gmail.com user1 pass1 d
+Ivana Miskeljin 063101010 generic.mail2@gmail.com user2 pass2 m
+Mateja Djenic 062100110 generic.mail3@gmail.com user3 pass3 g
